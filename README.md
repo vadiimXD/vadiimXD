@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadiim/Vladii 18y.o</h1>
-<h3 align="center">New JS Developer from Bulgaria</h3>
+<h3 align="center">New JavaScript Developer from Bulgaria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vadiimxd" alt="vadiimxd" /></a> </p>
 
@@ -7,8 +7,12 @@
 
 - 📫 How to reach me **vadim123bg@gmail.com**
 
+- ⚡ Fun fact **I’m dumby BMW driver 😅😜**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/v.selyovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.selyovv" height="30" width="40" /></a>
+<a href="https://discord.gg/v7220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v7220" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
