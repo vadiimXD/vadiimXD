@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vadiimxd" alt="vadiimxd" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript at SoftUni!**
+- 🌱 I’m currently learning **JavaScript at SoftUni**
 
 - 📫 How to reach me **vadim123bg@gmail.com**
 
