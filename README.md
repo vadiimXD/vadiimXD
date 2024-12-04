@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadiimxd&label=Profile%20views&color=0e75b6&style=flat" alt="vadiimxd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vadiimxd" alt="vadiimxd" /></a> </p>
-
 - 🔭 I’m currently working on [ZaZemiata](https://github.com/ZaZemiata)
 
 - 🌱 I’m currently learning **Vue**
@@ -35,11 +33,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vadiimXD&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 
