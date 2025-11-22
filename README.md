@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vadiimxd&label=Profile%20views&color=0e75b6&style=flat" alt="vadiimxd" /> </p>
 
-- 🔭 I’m currently working on [ZaZemiata](https://github.com/ZaZemiata)
-
-- 🌱 I’m currently learning **Vue**
-
 - 👨‍💻 All of my projects are available at [https://vadiimportfolio.vercel.app/](https://vadiimportfolio.vercel.app/)
 
 - 💬 Ask me about **react, express, node :)**
